@@ -1,8 +1,23 @@
+
 # Python Vehicle Simulator
 
-The Python Vehicle Simulator is a supplement to the Matlab MSS (Marine Systems Simulator) toolbox. It includes models for autonomous underwater vehicles (AUVs), unmanned surface vehicles (USVs), and ships. The vehicle models are based on the MSS vessel models located in /MSS/VESSELS/ catalogue. Each vehicle is modeled as an object in Python and the vehicle class has methods for guidance, navigation and control. The main program ```main.py``` is used to define vehicle objects for real-time simulation. 
+<br>
 
-URL: https://www.fossen.biz/wiley/pythonVehicleSim.php 
+<div align = center>
+
+---
+
+[![Button Website]][Website]   
+[![Button Install]][Install]   
+[![Button Files]][Files] 
+
+---
+
+</div>
+
+<br>
+
+The Python Vehicle Simulator is a supplement to the Matlab MSS (Marine Systems Simulator) toolbox. It includes models for autonomous underwater vehicles (AUVs), unmanned surface vehicles (USVs), and ships. The vehicle models are based on the MSS vessel models located in /MSS/VESSELS/ catalogue. Each vehicle is modeled as an object in Python and the vehicle class has methods for guidance, navigation and control. The main program ```main.py``` is used to define vehicle objects for real-time simulation. 
 
     
 For more information about mathematical modeling of marine craft and methods for guidance, navigation and control, please consult:
@@ -10,3 +25,15 @@ For more information about mathematical modeling of marine craft and methods for
 T. I. Fossen (2021). Handbook of Marine Craft Hydrodynamics and Motion Control. 2nd. Edition, Wiley. 
 URL: www.fossen.biz/wiley
 
+
+<!----------------------------------------------------------------------------->
+
+[Website]: https://www.fossen.biz/wiley/pythonVehicleSim.php
+[Install]: Documentation/Install.md
+[Files]: Documentation/Files.md
+
+<!----------------------------------------------------------------------------->
+
+[Button Website]: https://img.shields.io/badge/Website-00A8E1?style=for-the-badge&logoColor=white&logo=FirefoxBrowser
+[Button Install]: https://img.shields.io/badge/Install-569A31?style=for-the-badge&logoColor=white&logo=AddThis
+[Button Files]: https://img.shields.io/badge/Files-A5915F?style=for-the-badge&logoColor=white&logo=AzureArtifacts
